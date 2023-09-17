@@ -7,4 +7,5 @@
 ### 1.2 加速地址：
 
 * https://cdn.staticaly.com/gh/PGzxc/CDN/master/blog-version-control/svn-command-line-install.png
-* https://cdn.jsdelivr.net/gh/pgzxc/CDN/blog-image/xxx.png
+* https://cdn.jsdelivr.net/gh/pgzxc/CDN/blog-Interview/flutter-01-widget-life.webp  
+* https://jsd.onmicrosoft.cn/gh/pgzxc/CDN/blog-Interview/flutter-01-widget-life.webp 
